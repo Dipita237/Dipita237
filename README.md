@@ -1,6 +1,6 @@
 # Hey, I'm Dipita Ebongue Albert 👋
 
-> L2 Software Engineering Student @ University of Yaoundé 1 🇨🇲  
+> L3 Software Engineering Student @ University of Yaoundé 1 🇨🇲  
 > I build things for the web and learn something new every day.
 
 ---
